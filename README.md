@@ -9,9 +9,9 @@ This process continues until the user has a ranked playlist of 10 songs by the a
 Contributors:
 
 Annika Piccaro: 
-Webscraped the songs into readable files from www.songsfacts.com
-Desgined a simple user interface for the user to interact with.
+Webscraped the songs into readable files from www.songsfacts.com and 
+desgined a simple user interface for the user to interact with.
 
 Lucy Flannagan: 
 Read the file of songs by the given artist in
-Created the sorting algorithm for the songs.
+and created the sorting algorithm for the songs.
