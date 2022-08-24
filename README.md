@@ -6,6 +6,8 @@ The user also has the option to select "I don't know" or "I like them the same".
 The user interface includes the percent sorted as the user selects between songs.
 This process continues until the user has a ranked playlist of 10 songs by the artist.
 
+In order to run this program, you must have a Java supporting IDE (i.e. Eclipse or IntelliJ Idea). Once the code is downloaded, a JSoup pathway must be formed for the webscraping class of the program to function. For eclipse this entails right clicking on the project and selecting “Java Build Path” from the sidebar and then “Libraries” from the top bar. There should be an option to choose “Add External JARs…”, select that and then import the Jsoup JAR file. 
+
 Contributors:
 
 Annika Piccaro: 
